@@ -1,0 +1,5 @@
+opencc-python-reimplemented
+ebooklib
+beautifulsoup4
+customtkinter
+tkinterdnd2-universal
