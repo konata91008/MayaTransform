@@ -1,0 +1,10 @@
+# 虛擬環境
+venv/
+__pycache__/
+*.pyc
+
+# macOS 系統檔案
+.DS_Store
+
+# Windows 系統檔案
+Thumbs.db
